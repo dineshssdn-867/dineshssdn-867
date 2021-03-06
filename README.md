@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshssdn-867&layout=compact)](https://github.com/dineshssdn-867/github-readme-stats)
 
-<li>Time spent with Technologies</li>
+
 
 <br>
 </ul>

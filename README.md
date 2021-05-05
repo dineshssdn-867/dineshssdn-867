@@ -1,4 +1,4 @@
-### Hi there 👋 I am dinesh
+### Hi there 👋 I am Dinesh
 
 
 - 🔭 I’m currently working on my development skills
